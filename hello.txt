@@ -12,3 +12,4 @@ hello buff111
 222222
 hello buff2333334
 fs666666666666668i
+publiC static void main
